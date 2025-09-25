@@ -9,7 +9,7 @@
 
 ##  About Me
 -  Detail-oriented analyst turning raw data into **clear business insights**  
--  Experienced with **SQL, Python, BI dashboards, A/B testing, and data pipelines**  
+-  Experienced with **SQL, Python, Tableau,Excel,BI dashboards, A/B testing, and data pipelines**  
 -  Skilled in **ERP systems (SAP IS-U, S/4HANA)** and project tools (**JIRA, Confluence, MAKO**)  
 -  Based in Germany, open to remote/hybrid roles  
 -  Passionate about **storytelling with data** and solving business problems  
