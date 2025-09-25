@@ -7,16 +7,16 @@
 
 ---
 
-## 🚀 About Me
-- 📊 Detail-oriented analyst turning raw data into **clear business insights**  
-- 🧮 Experienced with **SQL, Python, BI dashboards, A/B testing, and data pipelines**  
-- 🏢 Skilled in **ERP systems (SAP IS-U, S/4HANA)** and project tools (**JIRA, Confluence, MAKO**)  
-- 📍 Based in Germany, open to remote/hybrid roles  
-- ✨ Passionate about **storytelling with data** and solving business problems  
+##  About Me
+-  Detail-oriented analyst turning raw data into **clear business insights**  
+-  Experienced with **SQL, Python, BI dashboards, A/B testing, and data pipelines**  
+-  Skilled in **ERP systems (SAP IS-U, S/4HANA)** and project tools (**JIRA, Confluence, MAKO**)  
+-  Based in Germany, open to remote/hybrid roles  
+-  Passionate about **storytelling with data** and solving business problems  
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 🔹 [**GA4 E-commerce Analytics**](https://github.com/Egbe34/ga4-ecommerce-analytics)  
 _End-to-end pipeline with GA4, ML models, and FastAPI deployment._
@@ -32,7 +32,7 @@ _Retention analysis, RFM segmentation, and Pareto (80/20) insights._
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <!-- Programming & Data -->
@@ -62,7 +62,7 @@ _Retention analysis, RFM segmentation, and Pareto (80/20) insights._
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Egbe34&show_icons=true&theme=tokyonight" height="150"/>
@@ -71,7 +71,7 @@ _Retention analysis, RFM segmentation, and Pareto (80/20) insights._
 
 ---
 
-## 🤝 Connect with Me
-- 📧 Email: yourname@email.com  
-- 💼 LinkedIn: [linkedin.com/in/YOURNAME](https://linkedin.com/in/YOURNAME)  
-- 🌍 Portfolio (coming soon)
+##  Connect with Me
+-  Email: graceegbe3@gmail.com 
+-  LinkedIn: https://www.linkedin.com/in/grace-egbe-77820b278/  
+-  Portfolio (coming soon)
