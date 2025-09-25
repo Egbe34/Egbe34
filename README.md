@@ -59,5 +59,5 @@ I also bring experience with **SAP IS-U, S/4HANA, JIRA, Confluence, and MAKO**, 
 
 ##  Connect with Me
 -  Email: **graceegbe3@gmail.com**  
-- 🌍 GitHub: [github.com/Egbe34](https://github.com/Egbe34)  
-- 📱 Phone: **+49 152 1290 6875**  
+-  GitHub: [github.com/Egbe34](https://github.com/Egbe34)  
+-  Phone: **+49 152 1290 6875**  
