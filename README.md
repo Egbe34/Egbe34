@@ -43,7 +43,8 @@ I also bring experience with **SAP IS-U, S/4HANA, JIRA, Confluence, and MAKO**, 
 
 ##  Highlight Projects
 -  **[GA4 E-commerce Analytics](https://github.com/Egbe34/ga4-ecommerce-analytics)** — BI dashboards + ML + FastAPI (end-to-end pipeline).  
--  **[Global Superstore](https://github.com/Egbe34/final-project-global-superstore)** — SQL + Python + Power BI dashboards.  
+-  **[Global Superstore](https://github.com/Egbe34/final-project-global-superstore)** — SQL + Python + Power BI dashboards.
+-  **[HR Analytics](https://github.com/Egbe34/HR-analytics)** — Attrition analysis, KPIs, and Tableau dashboards with Python & Excel integration.
 -  **[Vanguard A/B Testing](https://github.com/Egbe34/project5_group3_vanguard)** — CX metrics, hypothesis testing, and recommendations.  
 -  **[SQL Portfolio](https://github.com/Egbe34/sql-portfolio)** — KPI, retention, churn, RFM, and Pareto analysis.
 
