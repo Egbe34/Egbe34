@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Egbe Grace Banner" width="100%"/>
+  <img src="profile.png" alt="Egbe Grace Banner" width="100%"/>
 </p>
 
 ---
